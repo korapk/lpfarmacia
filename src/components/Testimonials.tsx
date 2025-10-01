@@ -21,7 +21,7 @@ const ALL: Testimonial[] = [
 
 const PAGE_SIZE = 3;
 const WHATSAPP_URL =
-  "https://wa.me/5599999999999?text=Quero%20saber%20mais%20sobre%20o%20evento"; // troque pelo seu
+  "https://api.whatsapp.com/send?phone=556294596894&text=Tenho%20interesse%20em%20saber%20mais.";
 
 const Testimonials: React.FC = () => {
   const [page, setPage] = useState(0);

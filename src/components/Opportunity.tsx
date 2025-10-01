@@ -3,7 +3,7 @@ import React from "react";
 import { Star, MessageCircle, Info } from "lucide-react";
 
 const WHATSAPP_URL =
-  "https://wa.me/5599999999999?text=Quero%20aproveitar%20esta%20oportunidade"; // troque pelo seu
+  "https://api.whatsapp.com/send?phone=556294596894&text=Tenho%20interesse%20em%20saber%20mais.";
 const POSTER_URL =
   "https://ascoferj.com.br/wp-content/uploads/2020/11/farmaceutico-scaled.jpg"; // thumb para ambos os vídeos
 

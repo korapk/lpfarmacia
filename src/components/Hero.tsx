@@ -167,16 +167,16 @@ const Hero = () => {
         {/* CTAs */}
         <div className="flex flex-col sm:flex-row gap-5 sm:gap-6 justify-center items-center mt-2">
           <a
-            href="https://linkdecomprateste.com"
+            href="https://api.whatsapp.com/send?phone=556294596894&text=Tenho%20interesse%20em%20saber%20mais."
             target="_blank"
             rel="noopener noreferrer"
             className="
               relative z-10
               bg-gradient-to-r from-[#CBA135] to-[#E5C558]
               hover:from-[#E5C558] hover:to-[#CBA135]
-              text-[#0b2438] font-extrabold 
-              py-3.5 px-10 sm:py-4 sm:px-12 
-              rounded-full text-lg sm:text-xl 
+              text-[#0b2438] font-extrabold
+              py-3.5 px-10 sm:py-4 sm:px-12
+              rounded-full text-lg sm:text-xl
               transition-all duration-400
               shadow-lg hover:shadow-xl
               ring-1 ring-[#E5C558]/30
@@ -187,20 +187,20 @@ const Hero = () => {
           </a>
 
           <a
-            href="https://wa.me/5562945968944?text=Olá!%20Gostaria%20de%20tirar%20algumas%20dúvidas%20sobre%20o%20curso%20de%20Formação%20de%20Líderes%20e%20Gerentes%20de%20Farmácia.%20Podem%20me%20ajudar?"
+            href="https://api.whatsapp.com/send?phone=556294596894&text=Tenho%20interesse%20em%20saber%20mais."
             target="_blank"
             rel="noopener noreferrer"
             className="
               relative z-10
-              border border-[#CBA135]/70 
+              border border-[#CBA135]/70
               text-[#E7D9A6]
               hover:text-[#0b2438]
               hover:bg-[#CBA135]
-              font-semibold 
-              py-3.5 px-9 sm:py-4 sm:px-10 
-              rounded-full text-lg sm:text-xl 
+              font-semibold
+              py-3.5 px-9 sm:py-4 sm:px-10
+              rounded-full text-lg sm:text-xl
               transition-all duration-400
-              backdrop-blur-sm bg-white/5 
+              backdrop-blur-sm bg-white/5
               shadow-lg hover:shadow-xl
               ring-1 ring-[#CBA135]/20
               flex items-center gap-3

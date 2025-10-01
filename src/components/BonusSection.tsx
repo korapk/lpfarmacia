@@ -90,8 +90,8 @@ const BonusSection = () => {
                 </p>
               </div>
 
-              <a 
-                href="https://linkdecomprateste.com"
+              <a
+                href="https://api.whatsapp.com/send?phone=556294596894&text=Tenho%20interesse%20em%20saber%20mais."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block premium-button bg-gradient-to-r from-[#CBA135] to-[#E5C558] hover:from-[#E5C558] hover:to-[#CBA135] text-white font-bold py-6 px-16 rounded-full text-2xl transition-all duration-500 transform hover:scale-105 shadow-2xl shadow-[#CBA135]/50 hover:shadow-[#CBA135]/70 font-body"

@@ -92,8 +92,8 @@ const Schedule = () => {
                   </p>
                 </div>
 
-                <a 
-                  href="https://linkdecomprateste.com"
+                <a
+                  href="https://api.whatsapp.com/send?phone=556294596894&text=Tenho%20interesse%20em%20saber%20mais."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block premium-button bg-gradient-to-r from-[#012840] to-[#01375a] hover:from-[#01375a] hover:to-[#012840] text-white font-bold py-4 px-12 rounded-full text-xl transition-all duration-500 transform hover:scale-105 shadow-lg hover:shadow-xl font-body"

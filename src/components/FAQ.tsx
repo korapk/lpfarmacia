@@ -96,8 +96,8 @@ const FAQ = () => {
               <p className="font-body text-[#444] mb-6 text-lg">
                 Nossa equipe está pronta para ajudar você com qualquer questão
               </p>
-              <a 
-                href="https://wa.me/5562945968944?text=Olá!%20Tenho%20algumas%20dúvidas%20sobre%20o%20curso%20de%20Formação%20de%20Líderes%20e%20Gerentes%20de%20Farmácia.%20Podem%20me%20ajudar%20com%20mais%20informações?"
+              <a
+                href="https://api.whatsapp.com/send?phone=556294596894&text=Tenho%20interesse%20em%20saber%20mais."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex premium-button bg-gradient-to-r from-[#25D366] to-[#128C7E] hover:from-[#128C7E] hover:to-[#25D366] text-white font-semibold py-3 px-8 rounded-full transition-all duration-500 transform hover:scale-105 shadow-lg hover:shadow-xl items-center gap-3 mx-auto font-body"
